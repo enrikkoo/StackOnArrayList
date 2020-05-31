@@ -38,7 +38,7 @@ public class StackTest {
     }
     @Test
     public void test6()  {
-        Assert.assertEquals((Integer)10,s.push(10));
+        Assert.assertEquals((Integer)15,s.push(15));
     }
 
 }

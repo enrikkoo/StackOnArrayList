@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 
-
-
 class Stack<T>{
 
     ArrayList<T> stack;
